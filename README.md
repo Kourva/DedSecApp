@@ -17,3 +17,6 @@ pip install kivy
 ```bash
 python3 main.py
 ```
+<br><br>
+
+> Download from [Here](https://github.com/Izolabela/DedSecApp/releases/download/v1.0/DedSec-1.0-arm64-v8a_armeabi-v7a-debug.apk)
