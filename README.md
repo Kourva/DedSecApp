@@ -6,7 +6,7 @@ DedSec Android App Using kivy
 # Install
 + clone 
 ```bash
-git clone https://github.com/Kourva/DedSecApp && cd DedSecApp
+git clone https://github.com/kozyol/DedSecApp && cd DedSecApp
 ```
 + requirements
 ```bash
@@ -18,4 +18,4 @@ python3 main.py
 ```
 <br><br>
 
-> Download from [Here](https://github.com/Kourva/DedSecApp/releases/download/v1.0/DedSec-1.0-arm64-v8a_armeabi-v7a-debug.apk)
+> Download from [Here](https://github.com/kozyol/DedSecApp/releases/download/v1.0/DedSec-1.0-arm64-v8a_armeabi-v7a-debug.apk)
